@@ -1,1 +1,2 @@
 This is bug2 resolved comment.
+Bug3 also removed.
